@@ -4,7 +4,7 @@
 - Jumping With  --> Space
 
 
-# Game Photos
+# Game Photos:
 ![Mario1](https://github.com/MahmoudSamy511/Super-Mario-Game/assets/95527475/f67da5c8-bceb-401f-a0ab-1fd1b817101c)
 ![Game](https://github.com/MahmoudSamy511/Super-Mario-Game/assets/95527475/5d461f6c-e6ed-4497-8580-7fea6138749a)
 ![Try](https://github.com/MahmoudSamy511/Super-Mario-Game/assets/95527475/771bf46f-cb55-4793-bc55-51e186e247f6)
