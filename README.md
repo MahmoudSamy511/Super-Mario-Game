@@ -10,30 +10,6 @@ This is a Java-based implementation of the classic Super Mario game. It provides
 - Support for keyboard controls.
 - Customizable settings.
 
-## Installation
-
-To run the Super Mario Game on your local machine, follow these steps:
-
-1. **Clone the repository:** 
-   ```bash
-   git clone https://github.com/MahmoudSamy511/Super-Mario-Game.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd Super-Mario-Game
-   ```
-
-3. **Compile the source code:**
-   ```bash
-   javac *.java
-   ```
-
-4. **Run the game:**
-   ```bash
-   java Game
-   ```
-
 ## Controls
 
 - **Arrow keys**: Move Mario (left, right, up to jump).
